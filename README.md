@@ -4,4 +4,6 @@ Data: [OECD](https://stats.oecd.org/index.aspx?DataSetCode=HEALTH_STAT#), Visual
 
 I originally created this visualization in JavaScript [link](https://observablehq.com/@cansin/health-care-spending-in-oecd-countries). I recreated it here in Python as a learning exercise.
 
+![Bar Chart Race](https://github.com/cansinacarer/Bar-Chart-Race/blob/main/result.gif)
+
 Please see the [notebook file](https://github.com/cansinacarer/Bar-Chart-Race/blob/main/health-care-spending-in-oecd-countries.ipynb) for how this bar chart race is created.
