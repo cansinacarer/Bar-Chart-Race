@@ -2,7 +2,7 @@
 ### As the Percentage of GDP Between 1970 and 2017
 Data: [OECD](https://stats.oecd.org/index.aspx?DataSetCode=HEALTH_STAT#), Visualization: [Cansin Cagan Acarer](https://cacarer.com/)
 
-I originally created this visualization in JavaScript [link](https://observablehq.com/@cansin/health-care-spending-in-oecd-countries). I recreated it here in Python as a learning exercise.
+I originally created this visualization in JavaScript ([link](https://observablehq.com/@cansin/health-care-spending-in-oecd-countries)). I recreated it here in Python as a learning exercise.
 
 ![Bar Chart Race](https://github.com/cansinacarer/Bar-Chart-Race/blob/main/result.gif)
 
